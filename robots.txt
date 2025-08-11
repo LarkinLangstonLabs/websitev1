@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /wp-admin/
+Disallow: /cgi-bin/
+
+Sitemap: https://larkinlangston.com/sitemap.xml
